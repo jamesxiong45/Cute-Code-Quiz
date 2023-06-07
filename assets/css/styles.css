@@ -1,0 +1,95 @@
+#wrapper {
+    position: absolute;
+    left: 30%;
+    top: 20%;
+    width: 600px;
+    height: 600px;
+}
+
+#startQuiz {
+    background-color: rgb(73, 0, 128);
+    position: relative;
+    margin-left: 30%;
+    color: antiquewhite;
+    text-align: center;
+    padding: 15px 32px;
+    font-size: 25px;
+}
+
+#starterDiv {
+    margin: 30px;
+}
+
+#timerDiv {
+    float: right;
+}
+
+#goBack {
+    background-color: rgb(73, 0, 128);
+    position: relative;
+    padding: 10px;
+    font-size: 20px;
+    color: rgb(250, 252, 224);
+    top: 30%;
+    left: 55%;
+    width: auto;
+    text-decoration: none;
+}
+
+#clearHighscore {
+    background-color: rgb(73, 0, 128);
+    position: relative;
+    padding: 10px;
+    font-size: 20px;
+    color: rgb(250, 252, 224);
+    top: 30%;
+    right: 5%;
+}
+
+button {
+    border-radius: 8px;
+}
+
+textarea {
+    width: 90%;
+    margin: 20px;
+}
+
+#Submit {
+    background-color: rgb(73, 0, 128);
+    margin-left: 33%;
+    padding: 15px 32px;
+    font-size: 20px;
+    color: rgb(250, 252, 224);
+}
+
+label {
+    margin-right: 10px;
+}
+
+input {
+    margin-bottom: 20px;
+    width: 50%;
+    border: 1px solid rgb(242, 239, 214);
+}
+
+h1 {
+    color: rgb(42, 21, 62);
+    text-align: center;
+}
+
+li {
+    background-color: rgb(167, 119, 251);
+    margin-top: 10px;
+    padding: 10px;
+    width: 90%;
+    font-size: 18px;
+    color: white;
+}
+li:hover{
+    cursor: pointer;
+}
+#createDiv {
+    margin-top: 20px;
+    border-top: 1px solid rgb(242, 239, 214);
+}
