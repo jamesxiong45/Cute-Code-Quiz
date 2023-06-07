@@ -15,7 +15,7 @@ You can access the app by going to the deployed page!
 
 ## Deployed Page
 
-
+https://jamesxiong45.github.io/Cute-Code-Quiz/
 
 ## GitHub Repo
 
